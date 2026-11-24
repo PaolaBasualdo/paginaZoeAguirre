@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 350" width="500" height="350">
+  <defs>
+    <linearGradient id="aboutGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+  </defs>
+  <rect width="500" height="350" fill="url(#aboutGrad)" rx="16" />
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="160" height="210" rx="12" fill="#38bdf8" fill-opacity="0.15" stroke="#38bdf8" stroke-width="2" />
+    <circle cx="80" cy="70" r="35" fill="#38bdf8" />
+    <rect x="30" y="130" width="100" height="12" rx="6" fill="#93c5fd" />
+    <rect x="45" y="155" width="70" height="10" rx="5" fill="#60a5fa" />
+  </g>
+  <g transform="translate(250, 80)">
+    <rect x="0" y="0" width="190" height="170" rx="12" fill="#818cf8" fill-opacity="0.15" stroke="#818cf8" stroke-width="2" />
+    <circle cx="95" cy="60" r="30" fill="#818cf8" />
+    <rect x="40" y="110" width="110" height="12" rx="6" fill="#c7d2fe" />
+    <rect x="55" y="132" width="80" height="10" rx="5" fill="#a5b4fc" />
+  </g>
+  <text x="250" y="300" font-family="'Outfit', sans-serif" font-size="18" font-weight="bold" fill="#38bdf8" text-anchor="middle">Innovación &amp; Pasión</text>
+</svg>
